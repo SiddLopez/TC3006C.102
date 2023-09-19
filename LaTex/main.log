@@ -1,0 +1,420 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.13)  17 SEP 2023 18:04
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/manuelcardenas/Desktop/Latex/AI/main.tex
+(/Users/manuelcardenas/Desktop/Latex/AI/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count193
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box51
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen144
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro1.png, id=1, 942.52126pt x 422.57875pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro1.png  used on input line 31.
+(pdftex.def)             Requested size: 377.00183pt x 169.0285pt.
+
+Overfull \hbox (32.00183pt too wide) in paragraph at lines 31--33
+ [][] 
+ []
+
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro2.png, id=12, 938.50626pt x 667.49374pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro2.png  used on input line 44.
+(pdftex.def)             Requested size: 375.39584pt x 266.99277pt.
+
+Overfull \hbox (30.39584pt too wide) in paragraph at lines 44--46
+ [][] 
+ []
+
+[2 </Users/manuelcardenas/Desktop/Latex/AI/images/intro1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro3.png, id=17, 939.51pt x 305.14pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro3.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro3.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro3.png  used on input line 63.
+(pdftex.def)             Requested size: 375.79733pt x 122.05382pt.
+
+Overfull \hbox (30.79733pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--66
+
+ []
+
+[3 </Users/manuelcardenas/Desktop/Latex/AI/images/intro2.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro4.png, id=22, 943.525pt x 604.2575pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro4.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro4.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro4.png  used on input line 80.
+(pdftex.def)             Requested size: 377.4033pt x 241.69872pt.
+
+Overfull \hbox (32.4033pt too wide) in paragraph at lines 80--82
+ [][] 
+ []
+
+[4 </Users/manuelcardenas/Desktop/Latex/AI/images/intro3.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro5.png, id=27, 936.49875pt x 445.665pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro5.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro5.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro5.png  used on input line 95.
+(pdftex.def)             Requested size: 374.59286pt x 178.26283pt.
+
+Overfull \hbox (29.59286pt too wide) in paragraph at lines 95--97
+ [][] 
+ []
+
+[5 </Users/manuelcardenas/Desktop/Latex/AI/images/intro4.png>] [6 </Users/manuelcardenas/Desktop/Latex/AI/images/intro5.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro6.png, id=36, 746.5491pt x 401.8212pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro6.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro6.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro6.png  used on input line 103.
+(pdftex.def)             Requested size: 298.61435pt x 160.72562pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro7.png, id=37, 740.0448pt x 401.8212pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro7.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro7.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro7.png  used on input line 111.
+(pdftex.def)             Requested size: 296.01268pt x 160.72562pt.
+ [7 </Users/manuelcardenas/Desktop/Latex/AI/images/intro6.png> </Users/manuelcardenas/Desktop/Latex/AI/images/intro7.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro8.png, id=44, 746.5491pt x 401.8212pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro8.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro8.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro8.png  used on input line 119.
+(pdftex.def)             Requested size: 298.61435pt x 160.72562pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro9.png, id=45, 729.2043pt x 401.8212pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro9.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro9.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro9.png  used on input line 127.
+(pdftex.def)             Requested size: 291.67654pt x 160.72562pt.
+ [8 </Users/manuelcardenas/Desktop/Latex/AI/images/intro8.png> </Users/manuelcardenas/Desktop/Latex/AI/images/intro9.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro10.png, id=51, 739.3221pt x 401.8212pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro10.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro10.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro10.png  used on input line 135.
+(pdftex.def)             Requested size: 295.7236pt x 160.72562pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro11.png, id=52, 1017.8025pt x 453.695pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro11.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro11.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro11.png  used on input line 146.
+(pdftex.def)             Requested size: 407.1138pt x 181.47478pt.
+
+Overfull \hbox (62.1138pt too wide) in paragraph at lines 146--148
+ [][] 
+ []
+
+[9 </Users/manuelcardenas/Desktop/Latex/AI/images/intro10.png> </Users/manuelcardenas/Desktop/Latex/AI/images/intro11.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/intro12.png, id=58, 405.4347pt x 301.3659pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/intro12.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/intro12.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/intro12.png  used on input line 154.
+(pdftex.def)             Requested size: 162.171pt x 120.54422pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/ua1.png, id=59, 747.79375pt x 707.64375pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/ua1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/ua1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/ua1.png  used on input line 171.
+(pdftex.def)             Requested size: 299.1122pt x 283.05249pt.
+ [10 </Users/manuelcardenas/Desktop/Latex/AI/images/intro12.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/ua2.png, id=64, 725.71124pt x 379.4175pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/ua2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/ua2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/ua2.png  used on input line 181.
+(pdftex.def)             Requested size: 290.27936pt x 151.7643pt.
+ [11 </Users/manuelcardenas/Desktop/Latex/AI/images/ua1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/bm1.png, id=69, 485.815pt x 731.73375pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/bm1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/bm1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/bm1.png  used on input line 199.
+(pdftex.def)             Requested size: 242.9069pt x 365.86598pt.
+ [12 </Users/manuelcardenas/Desktop/Latex/AI/images/ua2.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/bm2.png, id=74, 517.935pt x 524.96124pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/bm2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/bm2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/bm2.png  used on input line 207.
+(pdftex.def)             Requested size: 207.17032pt x 209.98077pt.
+ [13 </Users/manuelcardenas/Desktop/Latex/AI/images/bm1.png>] [14 </Users/manuelcardenas/Desktop/Latex/AI/images/bm2.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/m1.png, id=84, 753.81625pt x 555.07375pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m1.png  used on input line 223.
+(pdftex.def)             Requested size: 301.52116pt x 222.02556pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/m2.png, id=85, 748.7975pt x 467.7475pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m2.png  used on input line 230.
+(pdftex.def)             Requested size: 299.51369pt x 187.09567pt.
+ [15 </Users/manuelcardenas/Desktop/Latex/AI/images/m1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/m3.png, id=90, 761.84625pt x 393.47pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m3.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m3.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m3.png  used on input line 237.
+(pdftex.def)             Requested size: 304.7331pt x 157.38521pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/m4.png, id=91, 766.865pt x 401.5pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m4.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m4.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m4.png  used on input line 244.
+(pdftex.def)             Requested size: 306.74057pt x 160.59715pt.
+ [16 </Users/manuelcardenas/Desktop/Latex/AI/images/m2.png> </Users/manuelcardenas/Desktop/Latex/AI/images/m3.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/m5.png, id=97, 719.68875pt x 401.5pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m5.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m5.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m5.png  used on input line 251.
+(pdftex.def)             Requested size: 287.87039pt x 160.59715pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/m6.png, id=98, 737.75626pt x 403.5075pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m6.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m6.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m6.png  used on input line 258.
+(pdftex.def)             Requested size: 295.09727pt x 161.40013pt.
+ [17 </Users/manuelcardenas/Desktop/Latex/AI/images/m4.png> </Users/manuelcardenas/Desktop/Latex/AI/images/m5.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/m7.png, id=104, 722.7pt x 398.48875pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m7.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m7.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m7.png  used on input line 265.
+(pdftex.def)             Requested size: 289.07487pt x 159.39267pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/m8.png, id=105, 789.95125pt x 399.4925pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/m8.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/m8.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/m8.png  used on input line 272.
+(pdftex.def)             Requested size: 315.9749pt x 159.79416pt.
+ [18 </Users/manuelcardenas/Desktop/Latex/AI/images/m6.png> </Users/manuelcardenas/Desktop/Latex/AI/images/m7.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/r1.png, id=111, 570.13pt x 493.845pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/r1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/r1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/r1.png  used on input line 281.
+(pdftex.def)             Requested size: 228.04796pt x 197.53448pt.
+ [19 </Users/manuelcardenas/Desktop/Latex/AI/images/m8.png>] [20 </Users/manuelcardenas/Desktop/Latex/AI/images/r1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/r2.png, id=121, 506.89375pt x 523.9575pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/r2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/r2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/r2.png  used on input line 289.
+(pdftex.def)             Requested size: 202.7539pt x 209.57928pt.
+ [21 </Users/manuelcardenas/Desktop/Latex/AI/images/r2.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/r3.png, id=126, 500.87125pt x 515.9275pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/r3.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/r3.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/r3.png  used on input line 297.
+(pdftex.def)             Requested size: 200.34494pt x 206.36734pt.
+ [22 </Users/manuelcardenas/Desktop/Latex/AI/images/r3.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/r4.png, id=131, 500.87125pt x 518.93875pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/r4.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/r4.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/r4.png  used on input line 305.
+(pdftex.def)             Requested size: 200.34494pt x 207.57182pt.
+ [23 </Users/manuelcardenas/Desktop/Latex/AI/images/r4.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/r5.png, id=136, 493.845pt x 252.945pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/r5.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/r5.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/r5.png  used on input line 313.
+(pdftex.def)             Requested size: 197.53448pt x 101.17621pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/rf1.png, id=137, 823.075pt x 520.94624pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/rf1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/rf1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/rf1.png  used on input line 330.
+(pdftex.def)             Requested size: 329.22417pt x 208.3748pt.
+ [24 </Users/manuelcardenas/Desktop/Latex/AI/images/r5.png>] [25 </Users/manuelcardenas/Desktop/Latex/AI/images/rf1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/rf2.png, id=147, 804.00375pt x 418.56375pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/rf2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/rf2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/rf2.png  used on input line 338.
+(pdftex.def)             Requested size: 321.59581pt x 167.42252pt.
+ [26 </Users/manuelcardenas/Desktop/Latex/AI/images/rf2.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/rf3.png, id=152, 900.36375pt x 488.82625pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/rf3.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/rf3.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/rf3.png  used on input line 346.
+(pdftex.def)             Requested size: 360.13911pt x 195.52702pt.
+
+Overfull \hbox (15.13911pt too wide) in paragraph at lines 346--348
+ [][] 
+ []
+
+[27 </Users/manuelcardenas/Desktop/Latex/AI/images/rf3.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/rf4.png, id=157, 489.83pt x 544.0325pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/rf4.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/rf4.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/rf4.png  used on input line 356.
+(pdftex.def)             Requested size: 195.92853pt x 217.60915pt.
+ [28 </Users/manuelcardenas/Desktop/Latex/AI/images/rf4.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/rf5.png, id=162, 546.04pt x 273.02pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/rf5.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/rf5.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/rf5.png  used on input line 364.
+(pdftex.def)             Requested size: 218.41212pt x 109.20605pt.
+</Users/manuelcardenas/Desktop/Latex/AI/images/h1.png, id=163, 792.9625pt x 507.8975pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/h1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/h1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/h1.png  used on input line 379.
+(pdftex.def)             Requested size: 317.17938pt x 203.1554pt.
+ [29 </Users/manuelcardenas/Desktop/Latex/AI/images/rf5.png>] [30 </Users/manuelcardenas/Desktop/Latex/AI/images/h1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/h2.png, id=172, 787.94376pt x 414.54875pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/h2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/h2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/h2.png  used on input line 387.
+(pdftex.def)             Requested size: 315.17192pt x 165.81656pt.
+ [31 </Users/manuelcardenas/Desktop/Latex/AI/images/h2.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/h3.png, id=178, 1196.47pt x 651.43375pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/h3.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/h3.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/h3.png  used on input line 395.
+(pdftex.def)             Requested size: 478.57953pt x 260.56888pt.
+
+Overfull \hbox (133.57953pt too wide) in paragraph at lines 395--397
+ [][] 
+ []
+
+[32 </Users/manuelcardenas/Desktop/Latex/AI/images/h3.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/h4.png, id=183, 967.615pt x 425.59pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/h4.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/h4.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/h4.png  used on input line 403.
+(pdftex.def)             Requested size: 387.03915pt x 170.23297pt.
+
+Overfull \hbox (42.03915pt too wide) in paragraph at lines 403--405
+ [][] 
+ []
+
+[33 </Users/manuelcardenas/Desktop/Latex/AI/images/h4.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/h5.png, id=188, 691.58376pt x 548.0475pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/h5.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/h5.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/h5.png  used on input line 412.
+(pdftex.def)             Requested size: 276.6286pt x 219.2151pt.
+ [34 </Users/manuelcardenas/Desktop/Latex/AI/images/h5.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/h6.png, id=193, 906.38625pt x 303.1325pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/h6.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/h6.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/h6.png  used on input line 420.
+(pdftex.def)             Requested size: 362.54808pt x 121.25084pt.
+
+Overfull \hbox (17.54808pt too wide) in paragraph at lines 420--422
+ [][] 
+ []
+
+</Users/manuelcardenas/Desktop/Latex/AI/images/hyp1.png, id=194, 514.92375pt x 580.1675pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/hyp1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/hyp1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/hyp1.png  used on input line 431.
+(pdftex.def)             Requested size: 205.96585pt x 232.06288pt.
+[35 </Users/manuelcardenas/Desktop/Latex/AI/images/h6.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/hyp2.png, id=199, 701.62125pt x 268.00125pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/hyp2.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/hyp2.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/hyp2.png  used on input line 441.
+(pdftex.def)             Requested size: 280.64352pt x 107.1986pt.
+ [36 </Users/manuelcardenas/Desktop/Latex/AI/images/hyp1.png>]
+</Users/manuelcardenas/Desktop/Latex/AI/images/f1.png, id=204, 623.32875pt x 606.265pt>
+File: /Users/manuelcardenas/Desktop/Latex/AI/images/f1.png Graphic file (type png)
+<use /Users/manuelcardenas/Desktop/Latex/AI/images/f1.png>
+Package pdftex.def Info: /Users/manuelcardenas/Desktop/Latex/AI/images/f1.png  used on input line 451.
+(pdftex.def)             Requested size: 249.32707pt x 242.5017pt.
+
+No file main.bbl.
+[37 </Users/manuelcardenas/Desktop/Latex/AI/images/hyp2.png> </Users/manuelcardenas/Desktop/Latex/AI/images/f1.png>] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2035 strings out of 476025
+ 42875 string characters out of 5790017
+ 1854388 words of memory out of 5000000
+ 22472 multiletter control sequences out of 15000+600000
+ 516234 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,8n,62p,487b,225s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (37 pages, 4714744 bytes).
+PDF statistics:
+ 232 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+
